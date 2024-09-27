@@ -37,3 +37,4 @@ Persona mia = new("Mia", 22);
 object[] people = { jose, alan, mia };
 Array.Sort(people);
 Array.ForEach(people, n => Console.Write(n + "; "));
+//Sin terminar :(
